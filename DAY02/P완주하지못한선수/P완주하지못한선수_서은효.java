@@ -1,4 +1,4 @@
-package DAY02.P완주하지못한선수;
+package P완주하지못한선수;
 
 
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package DAY02.P폰켓몬;
+package P폰켓몬;
 
 import java.util.*;
 
