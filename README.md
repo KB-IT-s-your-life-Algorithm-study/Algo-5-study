@@ -2,6 +2,8 @@
 <br>
 <br>
 
+## ✅ Programmes address
+https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 ## ✅ Study Plan
 - 매주 **수요일** 오후 6시 ~ 오후 8시
