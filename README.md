@@ -1,10 +1,10 @@
 # 👊Algorithm Study 
 <br>
-<br>
+
 
 ## ✅ Programmes address
 https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
-
+<br>
 ## ✅ Study Plan
 - 매주 **수요일** 오후 6시 ~ 오후 8시
 - 하루 2문제를 1시간 30분 풀이하고 30분 토의한다.
