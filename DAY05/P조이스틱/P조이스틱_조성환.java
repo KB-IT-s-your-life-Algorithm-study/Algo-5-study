@@ -1,4 +1,4 @@
-package tset;
+package P조이스틱;
 
 public class P조이스틱_조성환 {
 
