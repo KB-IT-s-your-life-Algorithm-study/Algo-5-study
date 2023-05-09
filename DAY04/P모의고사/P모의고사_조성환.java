@@ -1,9 +1,9 @@
-package P폰켓몬;
+package P모의고사;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class P모의고사 {
+public class P모의고사_조성환 {
 	class Solution {
 		public int[] solution(int[] answers) {
 			int[] stu1 = new int[] { 1, 2, 3, 4, 5 };

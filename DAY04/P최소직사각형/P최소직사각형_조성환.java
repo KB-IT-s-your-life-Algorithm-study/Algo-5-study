@@ -1,6 +1,6 @@
-package P폰켓몬;
+package P최소직사각형;
 
-public class P최소직사각형 {
+public class P최소직사각형_조성환 {
 	class Solution {
 	    public int solution(int[][] sizes) {
 	    	int wid = 0;
