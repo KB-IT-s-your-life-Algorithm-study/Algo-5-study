@@ -25,7 +25,7 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 |2023/04/26|그리디|체육복, 조이스틱|
 |2023/05/03|DFS/BFS|타겟 넘버, 게임 맵 최단거리|
 |2023/05/10|스택|기능 개발, 프로세스|
-|2023/05/17|해시|전화번호 목록,위장|
+|2023/05/17|해시|전화번호 목록, 의상 |
 |2023/05/24|정렬|가장 큰 수, H-Index|
 
 <br><br>
