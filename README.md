@@ -6,8 +6,8 @@
 https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 <br><br>
 ## ✅ Study Plan
-- 매주 **수요일** 오후 6시 ~ 오후 8시
-- 하루 2문제를 1시간 30분 풀이하고 30분 토의한다.
+- 매주 **목요일** 오후 9시 ~ 오후 9시 30분
+- 4문제를 일주일 간 풀이하고 30분 토의한다.
 - 1차 목표: 4월까지 프로그래머스 Lv1 solve 및 Lv2 시작
 
 <br><br>
