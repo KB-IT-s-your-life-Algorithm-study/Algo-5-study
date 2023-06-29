@@ -1,0 +1,10 @@
+def solution(phone_book):
+    phone_hash = set(phone_book)  # 번호 저장
+    for phone in phone_book:
+        temp_num = ""
+        # 앞에서부터 저장된 번호가 있는지 확인
+        for digit in phone:
+            temp_num += digit
+            if temp_num in phone_hash and temp_num != phone:
+                return False
+    return True
