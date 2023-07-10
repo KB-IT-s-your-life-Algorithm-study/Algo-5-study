@@ -55,6 +55,7 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 |2023/05/10|스택|기능 개발, 프로세스|
 |2023/06/29|해시, 정렬|전화번호 목록, 의상,가장 큰 수, H-Index |
 |2023/07/06|Lv2|요격 시스템, 두 원 사이의 정수 쌍, 연속된 부분 수열의 합, 과제 진행하기 |
+|2023/07/13|2018 KAKAO BLIND|비밀지도, 캐시, 뉴스 클러스터링, 다트 게임 |
 
 <br><br>
 
