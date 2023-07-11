@@ -35,8 +35,10 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 | DAY_06 | 05-10 |    ✅    |     ✅     |     ✅     |     ✅     |    
 | DAY_07 | 05-17 |    ✅    |     ✅     |     ✅     |     ✅     |    
 | DAY_08 | 06-29 |    ✅    |     ✅     |     ✅     |     ✅     |    
-| DAY_09 | 07-06 |    ❌    |     ❌     |     ❌     |     ❌     |    
+| DAY_09 | 07-06 |    ✅    |     ✅     |     🔢     |     🔢     |    
+| DAY_10 | 07-13 |    ❌    |     ❌     |     ❌     |     ❌     | 
 <br>
+
 
 
 
