@@ -37,6 +37,7 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 | DAY_08 | 06-29 |    ✅    |     ✅     |     ✅     |     ✅     |    
 | DAY_09 | 07-06 |    ✅    |     ✅     |     🔢     |     🔢     |    
 | DAY_10 | 07-13 |    ❌    |     ❌     |     ❌     |     ❌     | 
+| DAY_10 | 07-20 |    ❌    |     ❌     |     ❌     |     ❌     | 
 <br>
 
 
@@ -58,7 +59,7 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 |2023/06/29|해시, 정렬|전화번호 목록, 의상,가장 큰 수, H-Index |
 |2023/07/06|Lv2|요격 시스템, 두 원 사이의 정수 쌍, 연속된 부분 수열의 합, 과제 진행하기 |
 |2023/07/13|2018 KAKAO BLIND|비밀지도, 캐시, 뉴스 클러스터링, 다트 게임 |
-
+|2023/07/13|2018 KAKAO BLIND|압축, n진수 게임, 파일명 정렬, 프렌즈4블록|
 <br><br>
 
 ## ✅ How to commit
