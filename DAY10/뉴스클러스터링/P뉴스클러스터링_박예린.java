@@ -9,24 +9,15 @@ class Solution {
 
         // 자카드 유사도 : 두 집합의 교집합 크기를 두 집합의 합집합 크기로 나눈 값
 
-
         // 문자열은 두 글자씩 끊어서 다중집합의 원소로 만든다.
-
         // 기타 공백이나 숫자, 특수 문자가 들어있는 경우는 그 글자 쌍을 버린다.
-
         // 대문자와 소문자의 차이는 무시한다.
         str1 = str1.toUpperCase();
         str2 = str2.toUpperCase();
 
-        System.out.println(str1);
-        System.out.println(str2);
-
-//        String[] multiset1 = new String[str1.length() - 1];
-//        String[] multiset2 = new String[str2.length() - 1];
-
         ArrayList<String> multiset1 = new ArrayList<>();
         ArrayList<String> multiset2 = new ArrayList<>();
-//        String[] multiset2 = new String[str2.length() - 1];
+
         // Test case 3 : 43690
 //        AA, A1, 1+, +A, AA, A2 => AA, AA
 //        AA, AA, AA, A1, 12 => AA, AA, AA
@@ -42,121 +33,33 @@ class Solution {
         multiset1 = makeMultiSet(str1);
         multiset2 = makeMultiSet(str2);
 
-        System.out.println(multiset1);
-        System.out.println(multiset2);
-
-
         Collections.sort(multiset1);
         Collections.sort(multiset2);
 
-
         // 같을 경우
-        if(multiset1.equals(multiset2)) {
-            System.out.println("a, b 같음");
-
+        if(multiset1.equals(multiset2) && !multiset1.isEmpty()) {
             return 65536;
         }
-//
-//        System.out.println(multiset1);
-//        System.out.println(multiset2);
-//        ArrayList<String> intersection = new ArrayList<>();
-//        ArrayList<String> union = new ArrayList<>();
 
-        ArrayList<String> intersection = (ArrayList<String>) multiset1.clone(); // shallow copy
         ArrayList<String> union = (ArrayList<String>) multiset1.clone(); // shallow copy
-
-        System.out.println("dsjkfhak");
-        intersection.retainAll(multiset1);
-
-//        if(intersection.isEmpty()) {
-//            return 65536;
-//        }
-
-//        if(multiset1.containsAll(intersection)) {
-//            System.out.println("여기야");
-////            return 65536;
-//        }
-
-
-
-        HashSet<String> hashSet = new HashSet<String>();
-        hashSet.addAll(intersection);
-
-        HashSet<String> hashSet2 = new HashSet<String>();
-        hashSet2.addAll(union);
-
-        System.out.println("hashSet2");
-        System.out.println(hashSet2);
-
-
-        if(multiset1.containsAll(multiset2) && multiset1.size() == multiset2.size()) {
-            System.out.println("여기야");
-//            return 65536;
-        }
-
-
-
-
-        // 부분 집합일 경우
-        if(multiset1.containsAll(multiset2) || multiset2.containsAll(multiset1)) {
-            System.out.println("부분집합");
-
-            answer = (int) Math.floor(((float) intersection.size() / Math.max(multiset1.size(), multiset2.size())) * 65536);
-            return answer;
-        }
-
-
 
         union.addAll(multiset2);
 
-        // 부분 집합
-//        if(hashSet.equals(hashSet2)) {
-//            System.out.println("부분 집합");
-//
-//
-//            System.out.println("union");
-//            System.out.println(union);
-//
-//            System.out.println("intersection");
-//            System.out.println(intersection);
-//
-//            return (int) Math.floor(((float) intersection.size() / ((float) union.size())) * 65536);
-//
-//        }
+        ArrayList<String> intersection = new ArrayList<>();
 
-        // HashSet으로 중복 제거
-//        HashSet<String> hashSet = new HashSet<String>();
-//        hashSet.addAll(union);
+        int length = multiset1.size();
 
 
-//        System.out.println(hashSet);
+        for(int i = 0; i < multiset1.size(); i++) {
+            if(multiset2.contains(multiset1.get(i))) {
+                multiset2.remove(multiset1.get(i));
+                intersection.add(multiset1.get(i));
+            }
+        }
 
-        System.out.println("union");
-        System.out.println(union);
+        if(intersection.isEmpty() && union.size() != 0) return 65536;
 
-        System.out.println("intersection");
-        System.out.println(intersection);
-
-        System.out.println("hashSet");
-        System.out.println(hashSet);
-
-
-        System.out.println(union.size());
-        System.out.println(intersection.size());
-//        System.out.println(hashSet.size());
-
-
-
-        System.out.println();
-
-
-        answer = (int) Math.floor(((float) hashSet.size() / ((float) union.size() - (float) hashSet.size() )) * 65536); // test case 5 통과
-//        answer = (int) Math.floor(((float) hashSet.size() / ((float) hashSet2.size())) * 65536);
-//        answer = (int) Math.floor(((float) intersection.size() / ((float) union.size() - (float) intersection.size() )) * 65536); // test case 3 통과
-
-
-
-        System.out.println(answer);
+        answer = (int) Math.floor(((float) intersection.size() / ((float) union.size() - (float) intersection.size() )) * 65536);
 
         return answer;
     }
@@ -201,8 +104,12 @@ class Solution {
 //        String str2 = "e=m*c^2";
 
         // Test case 5(반례) : 32768
-        String str1 = "abab";
-        String str2 = "baba";
+//        String str1 = "abab";
+//        String str2 = "baba";
+
+        // Test case 6(반례) : 교집합은 없으나 합집합이 있을 때
+        String str1 = "A+CE";
+        String str2 = "DEF";
 
 
 //        solution(str1, str2);
