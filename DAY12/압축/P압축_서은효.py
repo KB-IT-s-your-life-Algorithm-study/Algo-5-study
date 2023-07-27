@@ -36,7 +36,7 @@ def solution(msg):
             message = msg[front_cut:end_cut-1]
             #사전 색인을 출력함
             answer.append(dic.index(message) + 1)
-            #end는 그대로 두고, front만 end-1로 변경하기 
+            #end는 그대로 두고, front만 end-1로 변경하기
             front_cut = end_cut-1
 
 
