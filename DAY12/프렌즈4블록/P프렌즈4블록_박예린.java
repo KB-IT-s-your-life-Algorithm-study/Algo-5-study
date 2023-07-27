@@ -39,7 +39,6 @@ class Solution {
 
 //        System.out.println(Arrays.toString(stack));
 
-
         for(int i = 0; i < Math.max(m, n); i++){
             block[i] = new ArrayList<>();
         }
