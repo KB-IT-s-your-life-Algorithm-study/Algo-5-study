@@ -39,7 +39,7 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 | DAY_09 | 07-06 | |  ✅    |     ✅     |     🔢     |     🔢     |    
 | DAY_10 | 07-13 | |  ✅    |     🔢     |     ✅     |     ✅     | 
 | DAY_11 | 07-20 | |       | | ||난이도 조절 및 앞으로의 계획 설정|
-| DAY_10 | 07-27 | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | ❌ | ✅ | ❌ | ✅ |
+| DAY_12 | 07-27 | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | ❌ | ✅ | ❌ | ✅ |
 | |  | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |  ❌ | ✅ | ❌ | ❎ |
 
 <br>
