@@ -1,8 +1,8 @@
 def solution(msg):
     answer = []
     # 알파벳 단어에 해당하는 색인번호 dic생성
-    dic= dict(zip("ABCDEFGHIJKLMNOPQRSTUVWXYZ", range(1, 27))) "
-    cnt = 27  //알파벳 개수
+    dic= dict(zip("ABCDEFGHIJKLMNOPQRSTUVWXYZ", range(1, 27)))
+    cnt = 27  ##알파벳 개수
     i = 0
     search = ''
     
