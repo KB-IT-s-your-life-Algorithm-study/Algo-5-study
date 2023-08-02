@@ -9,7 +9,7 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 - 매주 **목요일** 오후 9시 ~ 오후 9시 30분
 - 4문제를 일주일 간 풀이하고 30분 토의한다.
 - 1차 목표: 4월까지 프로그래머스 Lv1 solve 및 Lv2 시작
-
+- 2차 목표: KAKAO 기출 문제 풀이 
 <br><br>
 
 
@@ -39,9 +39,10 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 | DAY_09 | 07-06 | |  ✅    |     ✅     |     🔢     |     🔢     |    
 | DAY_10 | 07-13 | |  ✅    |     🔢     |     ✅     |     ✅     | 
 | DAY_11 | 07-20 | |       | | ||난이도 조절 및 앞으로의 계획 설정|
-| DAY_12 | 07-27 | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | ❌ | ✅ | ✅ | ✅ |
-| |  | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |  ❌ | ✅ | ❌ | ❎ |
-
+| DAY_12 | 07-27 | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | ✅ | ✅ | ✅ | ✅ |
+| |  | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |  ✅ | ✅ | ❌ | ❎ |
+| DAY_13 | 08-03 | [방금 그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | ❌ | ❌ | ❌ | ❌ |
+| |  | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |  ❌ | ❌ | ❌ | ❌ |
 <br>
 
 
@@ -49,7 +50,8 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 ## ✅ We solve
 - 프로그래머스 고득점 kit의 분류된 문제 Lv 1 ~ 2
-- 백준 실버 5 ~ 골드 2 
+- 백준 실버 5 ~ 골드 2
+- KAKAO 기출 문제 
 <br>
 
 |Date|Category|Problem|
@@ -65,6 +67,7 @@ https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 |2023/07/13|2018 KAKAO BLIND|비밀지도, 캐시, 뉴스 클러스터링, 다트 게임 |
 |2023/07/20|2018 KAKAO BLIND|압축, n진수 게임, 파일명 정렬, 프렌즈4블록|
 |2023/07/27|2018 KAKAO BLIND|압축, 프렌즈4블록|
+|2023/08/03|2018 KAKAO BLIND|방금 그곡, 파일명 정렬|
 
 <br><br>
 
