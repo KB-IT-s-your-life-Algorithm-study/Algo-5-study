@@ -1,7 +1,6 @@
 # 👊Algorithm Study 
-<br>
 
-<br><br>
+<br>
 ## ✅ Study Plan
 - 매주 **목요일** 오후 9시 ~ 오후 9시 30분
 - 2 ~ 4문제를 일주일 간 풀이하고 30분 토의한다. (매주 의논후에 개수 결정)
@@ -38,7 +37,7 @@
 | DAY_11 | 07-20 | |       | | ||난이도 조절 및 앞으로의 계획 설정|
 | DAY_12 | 07-27 | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | ✅ | ✅ | ✅ | ✅ |
 | |  | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |  ✅ | ✅ | ❌ | ❎ |
-| DAY_13 | 08-03 | [방금 그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | ❌ | ❌ | ❌ | ❌ |
+| DAY_13 | 08-03 | [방금 그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | ❌ | ❌ | ❌ | ❎ |
 | |  | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |  ❌ | ❌ | ❌ | ❌ |
 <br>
 
