@@ -38,7 +38,7 @@
 | DAY_11 | 07-20 | |       | | ||난이도 조절 및 앞으로의 계획 설정|
 | DAY_12 | 07-27 | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | ✅ | ✅ | ✅ | ✅ |
 | |  | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |  ✅ | ✅ | ❌ | ❎ |
-| DAY_13 | 08-03 | [방금 그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | ❌ | ❌ | ❌ | ❎ |
+| DAY_13 | 08-03 | [방금 그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | ✅ | ❌ | ❌ | ❎ |
 | |  | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |  ❌ | ❌ | ❌ | ❌ |
 <br>
 
