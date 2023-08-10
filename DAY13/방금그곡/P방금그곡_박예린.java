@@ -17,11 +17,12 @@ class Solution {
 
         for (int i = 0; i < len; i++) {
             String[] tmp = musicinfos[i].split(",");
-            int start = (Integer.parseInt(tmp[0].substring(0,2)) * 60) +
-                    Integer.parseInt(tmp[0].substring(3,5));
-            int end = (Integer.parseInt(tmp[1].substring(0,2)) * 60) +
-                    Integer.parseInt(tmp[1].substring(3,5));
-            time[i] = end - start;
+            String[] start = tmp[0].split(":");
+            String[] end = tmp[1].split(":");
+            int hour = (Integer.parseInt(end[0]) - Integer.parseInt(start[0])) * 60;
+            int minute = Integer.parseInt(end[1]) - Integer.parseInt(start[1]);
+
+            time[i] = hour + minute;
 
             title[i] = tmp[2];
             melody[i] = changeMelody(tmp[3]);
