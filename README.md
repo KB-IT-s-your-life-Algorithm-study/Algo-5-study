@@ -40,6 +40,8 @@
 | |  | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |  ✅ | ✅ | 🔺 | ❎ |
 | DAY_13 | 08-03 | [방금 그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | ✅ | 🔺 | 🔺 | ❎ |
 | |  | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |  ❌ | 🔺 | 🔢 | ❌ |
+| DAY_14 | 08-17| [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |  | ✅ |  | |
+| |  | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | |  |  | |
 <br>
 
 
@@ -65,6 +67,7 @@
 |2023/07/20|2018 KAKAO BLIND|압축, n진수 게임, 파일명 정렬, 프렌즈4블록|
 |2023/07/27|2018 KAKAO BLIND|압축, 프렌즈4블록|
 |2023/08/03|2018 KAKAO BLIND|방금 그곡, 파일명 정렬|
+|2023/08/03|2018 KAKAO BLIND|n진수게임, 셔틀버스|
 
 <br><br>
 
