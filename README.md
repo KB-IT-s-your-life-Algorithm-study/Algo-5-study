@@ -41,8 +41,8 @@
 | DAY_13 | 08-03 | [방금 그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) | ✅ | 🔺 | 🔺 | ❎ |
 | |  | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |  ❌ | 🔺 | 🔢 | ❌ |
 | DAY_14 | 08-17| [n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |  | ✅ |  | |
-| |  | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | | 🔢 |  | |
-| DAY_15 | 08-24| [자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |  |  |  | |
+| |  | [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | | ❎ |  | |
+| DAY_15 | 08-24| [자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17687) |  | 🔢 |  | |
 | |  | [추석트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | |  |  | |
 <br>
 
