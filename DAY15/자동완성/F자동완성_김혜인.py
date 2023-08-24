@@ -1,3 +1,4 @@
+##이분탐색 시간 초기화...
 def b(current_word, words):
     start = 0
     length = len(current_word)
